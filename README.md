@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @helga047
-- 👀 I’m interested in gaming (especially retro), graphic design and software development and more!
+- 👀 I’m interested in gaming, graphic design and software development and more!
 - 🌱 I’m currently learning website development
 - 💞️ I’m looking to collaborate on new fun projects!
 - 📫 How to reach me: helga3458214@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love retro games, especially ones from the 90's.
 
 <!---
 This is my first introduction.
